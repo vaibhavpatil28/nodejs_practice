@@ -46,3 +46,4 @@ Thumbs.db
 dist-server
 *.jar
 /upload-dir
+*/*/node_modules
